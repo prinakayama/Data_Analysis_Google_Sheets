@@ -8,3 +8,9 @@
 <h1 align="center"><b>Data Analysis com Google Sheets </b></h1>
 
 <p align="center"> 
+
+
+1. Google Sheets
+2. Previsões
+3. Estatística
+4. Técnicas de Visualização 
